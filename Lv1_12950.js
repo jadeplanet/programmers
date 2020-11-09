@@ -1,3 +1,4 @@
+// 행렬의 덧셈
 function solution(arr1, arr2) {
 	let answer = [];
 	for (let i = 0; i < arr1.length; i++) {
