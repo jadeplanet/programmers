@@ -1,5 +1,4 @@
 // 3진법 뒤집기
-
 let answer = [];
 function solution(n) {
 	let quotient = parseInt(n / 3);
